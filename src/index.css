@@ -1,0 +1,12 @@
+/* 在此处对app组件进行设置 */
+:root{
+  font-size: 13px;
+}
+html,
+body,
+#app{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-size: 13px;
+}
